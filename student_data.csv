@@ -1,0 +1,9 @@
+subject,marks,difficulty,days_left,study_hours
+DSA,45,3,10,3
+DSA,60,2,8,2
+ML,40,3,7,3.5
+ML,75,1,6,1.5
+DBMS,50,2,9,2.5
+DBMS,80,1,5,1
+OS,35,3,12,4
+OS,65,2,7,2
