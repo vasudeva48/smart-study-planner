@@ -30,10 +30,11 @@ Smart Study Planner is a beginner-friendly Machine Learning project that predict
 ---
 ## ▶️ How to Run
 git clone https://github.com/vasudeva48/smart-study-planner.git
-cd smart-study-planner
-pip install -r requirements.txt
-python -m streamlit run app.py
+
+•cd smart-study-planner
+•pip install -r requirements.txt
+•python -m streamlit run app.py
 
 GitHub: https://github.com/vasudeva48
 
-## ▶️ How to Run
+
